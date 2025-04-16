@@ -53,7 +53,7 @@ function drawTitle() {
     ctx.fillStyle = 'yellow';
     ctx.shadowColor = 'orange';
     ctx.shadowBlur = 6;
-    ctx.fillText('Flappy bird V5', 60, titleY + 5);
+    ctx.fillText('Flappy bird V1', 60, titleY + 5);
     ctx.restore();
 }
 
